@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 319ff54b1e0a0b847a9c73a5e9f52fb3, type: 3}
+  m_Name: PatternC
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyPatternScriptableObject
+  prefab: {fileID: 9170092301938697835, guid: b7c379e52b329f547abc8aa01a396d87, type: 3}
+  spawnPoints:
+  - {x: 11, y: 0, z: 0}
+  - {x: 15, y: 0, z: 0}
+  - {x: 15, y: 2, z: 0}
+  - {x: 13, y: -2, z: 0}
+  - {x: 12, y: 1, z: 0}
+  - {x: 15, y: -1, z: 0}
+  - {x: 13, y: 0, z: 0}
